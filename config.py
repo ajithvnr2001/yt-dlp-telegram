@@ -1,2 +1,2 @@
-token="5988061227:AAG3XlRE3_7V7PWeQTNhStGfungefHDwt9M" # telegram token
+token="5890071989:AAGLMEtc-N4UN8Uye9umzE5gIhSCDHYfdBI" # telegram token
 sticker_id = ""
